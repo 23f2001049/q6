@@ -36,11 +36,4 @@ Fields:
 - Show labels for larger rectangles only, or abbreviate small ones.
 - Keep font sizes legible for board decks and annual reports.
 
-## Raw GitHub URL (what to submit)
-Once you push this repo to GitHub (with default branch `main`), the raw URL for this README will look like:
 
-```
-https://raw.githubusercontent.com/<your-username>/<your-repo>/main/README.md
-```
-
-Replace `<your-username>` and `<your-repo>` accordingly.
